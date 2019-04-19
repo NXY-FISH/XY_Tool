@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'XY_Tool_Example' do
+  pod 'XY_Tool', :path => '../'
+
+  target 'XY_Tool_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
