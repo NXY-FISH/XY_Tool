@@ -1,0 +1,6 @@
+framework module XY_Tool {
+  umbrella header "XY_Tool-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "XY_Tool",
+  "version": "0.1.0",
+  "summary": "A short description of XY_Tool.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/NXY-FISH/XY_Tool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "NXY-FISH": "nxy"
+  },
+  "source": {
+    "git": "https://github.com/NXY-FISH/XY_Tool.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XY_Tool/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - XY_Tool (0.1.0)
+
+DEPENDENCIES:
+  - XY_Tool (from `../`)
+
+EXTERNAL SOURCES:
+  XY_Tool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XY_Tool: d5f58e86282776659782db6ef623b57a5102bb39
+
+PODFILE CHECKSUM: 99de8fd62e6e31e6ceca390323be6fd1c486133a
+
+COCOAPODS: 1.5.3
